@@ -1,4 +1,4 @@
 #Etudes 
 
-This app will work in a way similar to William Whitaker's words, but implemented in Python hopefully with enough modularity to successfully translate other languages.
+This is a language learning app for Chinese and English...with a French name.
 
